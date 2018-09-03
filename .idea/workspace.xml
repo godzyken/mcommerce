@@ -2,13 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ea262b4-2468-45e4-872f-a7e3c37b5004" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_unknown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-produits/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-produits/target/" />
     <ignored path="$PROJECT_DIR$/microservice-paiement/target/" />
@@ -46,10 +83,10 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="7" />
-          <entry key="java" value="46" />
+          <entry key="java" value="48" />
           <entry key="mvnw" value="1" />
-          <entry key="properties" value="17" />
-          <entry key="xml" value="5" />
+          <entry key="properties" value="20" />
+          <entry key="xml" value="6" />
           <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
@@ -57,27 +94,27 @@
         <counts>
           <entry key="Bash" value="1" />
           <entry key="HTML" value="7" />
-          <entry key="JAVA" value="46" />
-          <entry key="Properties" value="17" />
-          <entry key="XML" value="6" />
+          <entry key="JAVA" value="48" />
+          <entry key="Properties" value="20" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="314" />
-          <entry key="java" value="1240" />
-          <entry key="properties" value="272" />
+          <entry key="java" value="1245" />
+          <entry key="properties" value="274" />
           <entry key="txt" value="62" />
-          <entry key="xml" value="64" />
+          <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="314" />
-          <entry key="JAVA" value="1240" />
+          <entry key="JAVA" value="1245" />
           <entry key="PLAIN_TEXT" value="62" />
-          <entry key="Properties" value="272" />
-          <entry key="XML" value="64" />
+          <entry key="Properties" value="274" />
+          <entry key="XML" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.core.usages.trigger">
@@ -90,6 +127,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientui/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="4" selection-end-line="67" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-248">
@@ -98,11 +144,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-produits/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="337">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -117,10 +163,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+        <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -145,7 +203,7 @@
     </option>
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/config-server-repo" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GithubProjectSettings">
@@ -173,22 +231,22 @@
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/proxies/MicroserviceCommandeProxy.java" />
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/proxies/MicroservicePaiementProxy.java" />
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/ClientUiApplication.java" />
-        <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/MproduitsApplication.java" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/clientui/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/clientui/src/main/resources/templates/FicheProduit.html" />
         <option value="$PROJECT_DIR$/clientui/src/main/resources/templates/Paiement.html" />
         <option value="$PROJECT_DIR$/clientui/src/main/resources/templates/Confirmation.html" />
-        <option value="$PROJECT_DIR$/clientui/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java" />
         <option value="$PROJECT_DIR$/config-server-repo/microservice-produit.properties" />
-        <option value="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/config-server/src/main/java/com/mcommerce/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/clientui/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-produits/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java" />
+        <option value="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" />
       </list>
     </option>
   </component>
@@ -204,7 +262,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="520" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -223,7 +281,53 @@
           <expand>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="configurations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clientui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="config-server-repo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
@@ -254,6 +358,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mproduits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mproduits" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
@@ -296,7 +409,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535980730108" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535983186208" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -330,7 +443,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ClientUiApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="mcommerce" />
       <option name="VM_PARAMETERS" />
@@ -443,7 +556,7 @@
       <workItem from="1535695870208" duration="13085000" />
       <workItem from="1535958345121" duration="1981000" />
       <workItem from="1535960684491" duration="5095000" />
-      <workItem from="1535966108954" duration="8698000" />
+      <workItem from="1535966108954" duration="10987000" />
     </task>
     <task id="LOCAL-00001" summary="firts">
       <created>1535709202901</created>
@@ -470,7 +583,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41498000" />
+    <option name="totallyTimeSpent" value="43787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,10 +595,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -504,7 +617,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.35117057" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.35117057" />
       <window_info anchor="bottom" id="SQL" order="10" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998884" />
@@ -520,7 +633,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Google Cloud Storage" order="4" />
       <window_info anchor="right" id="Mongo Explorer" order="5" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="6" visible="true" weight="0.25906184" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.25906184" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -860,47 +973,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clientui/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/mcommerce/configserver/ConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config-server/mvnw">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="661">
@@ -918,6 +990,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="4" selection-end-line="67" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/mcommerce/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-produits/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -925,17 +1035,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configuration/ApplicationPropertiesConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/pom.xml">
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="340">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
         </state>
       </provider>
     </entry>
