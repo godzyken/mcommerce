@@ -4,11 +4,11 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/unknown/spring-cloud-starter-config-unknown.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/2.0.1.RELEASE" />
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/unknown/spring-cloud-starter-config-unknown-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/2.0.1.RELEASE" />
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/unknown/spring-cloud-starter-config-unknown-sources.jar!/" />
     </SOURCES>
   </library>
