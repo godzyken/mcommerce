@@ -4,9 +4,11 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/unknown/spring-cloud-starter-openfeign-unknown.jar!/" />
     </CLASSES>
     <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign" />
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/unknown/spring-cloud-starter-openfeign-unknown-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign" />
       <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/unknown/spring-cloud-starter-openfeign-unknown-sources.jar!/" />
     </SOURCES>
   </library>
