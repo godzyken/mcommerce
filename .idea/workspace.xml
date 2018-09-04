@@ -4,10 +4,8 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea262b4-2468-45e4-872f-a7e3c37b5004" name="Default Changelist" comment="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;">
+    <list default="true" id="9ea262b4-2468-45e4-872f-a7e3c37b5004" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server-repo" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-repo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-paiement/src/main/java/com/mpaiement/web/controller/PaiementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-paiement/src/main/java/com/mpaiement/web/controller/PaiementController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-produits/target/" />
     <ignored path="$PROJECT_DIR$/microservice-paiement/target/" />
@@ -73,7 +71,7 @@
           <entry key="html" value="314" />
           <entry key="java" value="1281" />
           <entry key="properties" value="354" />
-          <entry key="txt" value="113" />
+          <entry key="txt" value="114" />
           <entry key="xml" value="109" />
         </counts>
       </usages-collector>
@@ -81,7 +79,7 @@
         <counts>
           <entry key="HTML" value="314" />
           <entry key="JAVA" value="1281" />
-          <entry key="PLAIN_TEXT" value="113" />
+          <entry key="PLAIN_TEXT" value="114" />
           <entry key="Properties" value="354" />
           <entry key="XML" value="109" />
         </counts>
@@ -130,7 +128,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservice-paiement/src/main/java/com/mpaiement/web/controller/PaiementController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
+            <state relative-caret-position="53">
               <caret line="25" column="55" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -390,7 +388,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536049616221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536049716795" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter/2.0.1.RELEASE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -542,7 +540,7 @@
       <workItem from="1536041240965" duration="5082000" />
       <workItem from="1536046363741" duration="358000" />
       <workItem from="1536046839490" duration="106000" />
-      <workItem from="1536047116039" duration="2427000" />
+      <workItem from="1536047116039" duration="2692000" />
     </task>
     <task id="LOCAL-00001" summary="firts">
       <created>1535709202901</created>
@@ -600,11 +598,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536047979095</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;">
+      <created>1536049709165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536049709165</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55960000" />
+    <option name="totallyTimeSpent" value="56225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -617,9 +622,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -640,13 +644,13 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.35451505" />
       <window_info anchor="bottom" id="SQL" order="10" weight="0.32998884" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998884" />
       <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32998884" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.4989339" weight="0.32998884" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.4989339" weight="0.32329988" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49840087" visible="true" weight="0.35117057" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49840087" weight="0.35117057" />
       <window_info anchor="bottom" id="Inspection Results" order="18" sideWeight="0.49946696" weight="0.3277592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -714,9 +718,9 @@
     <MESSAGE value="externaliser les propriété serveur" />
     <MESSAGE value="externaliser les propriété serveur&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
     <MESSAGE value="externaliser les propriété microservice-paiement&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
-    <MESSAGE value="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
     <MESSAGE value="propriété microservice-clientui&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="propriété microservice-clientui&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
+    <MESSAGE value="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/clientui/src/main/java/com/clientui/exceptions/CustomErrorDecoder.java">
@@ -2175,7 +2179,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-paiement/src/main/java/com/mpaiement/web/controller/PaiementController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
+        <state relative-caret-position="53">
           <caret line="25" column="55" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
