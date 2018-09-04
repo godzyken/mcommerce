@@ -4,28 +4,8 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea262b4-2468-45e4-872f-a7e3c37b5004" name="Default Changelist" comment="externaliser les propriété microservice-paiement&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_unknown.xml" afterDir="false" />
+    <list default="true" id="9ea262b4-2468-45e4-872f-a7e3c37b5004" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-commandes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-commandes/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-commandes/src/main/java/com/mcommandes/McommandesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-commandes/src/main/java/com/mcommandes/McommandesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-commandes/src/main/java/com/mcommandes/web/controller/CommandeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-commandes/src/main/java/com/mcommandes/web/controller/CommandeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-commandes/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-commandes/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-paiement/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-paiement/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-produits/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-produits/target/" />
     <ignored path="$PROJECT_DIR$/microservice-paiement/target/" />
@@ -89,7 +69,7 @@
           <entry key="html" value="314" />
           <entry key="java" value="1264" />
           <entry key="properties" value="354" />
-          <entry key="txt" value="92" />
+          <entry key="txt" value="103" />
           <entry key="xml" value="109" />
         </counts>
       </usages-collector>
@@ -97,7 +77,7 @@
         <counts>
           <entry key="HTML" value="314" />
           <entry key="JAVA" value="1264" />
-          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="PLAIN_TEXT" value="103" />
           <entry key="Properties" value="354" />
           <entry key="XML" value="109" />
         </counts>
@@ -132,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservice-commandes/src/main/java/com/mcommandes/web/controller/CommandeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="189">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#788#901#0" expanded="true" />
@@ -435,7 +415,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536045183278" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536045795033" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter/2.0.1.RELEASE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -583,7 +563,7 @@
       <workItem from="1535958345121" duration="1981000" />
       <workItem from="1535960684491" duration="5095000" />
       <workItem from="1535966108954" duration="15187000" />
-      <workItem from="1536041240965" duration="3932000" />
+      <workItem from="1536041240965" duration="4502000" />
     </task>
     <task id="LOCAL-00001" summary="firts">
       <created>1535709202901</created>
@@ -620,11 +600,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535987204861</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;">
+      <created>1536045280015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536045280015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51919000" />
+    <option name="totallyTimeSpent" value="52489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -637,7 +624,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -658,15 +644,15 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32329988" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.32329988" />
       <window_info anchor="bottom" id="SQL" order="10" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998884" />
       <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32998884" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.4989339" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Messages" order="16" sideWeight="0.4989339" visible="true" weight="0.32329988" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49840087" weight="0.35451505" />
+      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.4989339" weight="0.32329988" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49840087" visible="true" weight="0.35451505" />
       <window_info anchor="bottom" id="Inspection Results" order="18" sideWeight="0.49946696" weight="0.3277592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -734,7 +720,8 @@
     <MESSAGE value="externaliser les propriété serveur" />
     <MESSAGE value="externaliser les propriété serveur&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
     <MESSAGE value="externaliser les propriété microservice-paiement&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="externaliser les propriété microservice-paiement&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
+    <MESSAGE value="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="propriété microservice-commande&quot;&#10;&#10;Signed-off-by: godzy &lt;isgodzy@msn.com&gt;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Mcommerce-partie1-master/src/main/java/com/ecommerce/microcommerce/MicrocommerceApplication.java">
@@ -2182,8 +2169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-commandes/src/main/java/com/mcommandes/web/controller/CommandeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="189">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#788#901#0" expanded="true" />
