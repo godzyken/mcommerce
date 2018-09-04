@@ -1,19 +1,29 @@
 package com.mpaiement.web.controller;
 
+import com.mpaiement.beans.CommandeBean;
 import com.mpaiement.dao.PaiementDao;
 import com.mpaiement.model.Paiement;
+import com.mpaiement.proxies.MicroserviceCommandeProxy;
 import com.mpaiement.web.exceptions.PaiementExistantException;
 import com.mpaiement.web.exceptions.PaiementImpossibleException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.util.Optional;
 
 @RestController
 public class PaiementController {
 
     @Autowired
     PaiementDao paiementDao;
+
+
+    @Autowired
+    MicroserviceCommandeProxy microserviceCommandeProxy;
 
     @PostMapping(value = "/paiement")
     public ResponseEntity<Paiement>  payerUneCommande(@RequestBody Paiement paiement){
@@ -27,12 +37,24 @@ public class PaiementController {
         Paiement nouveauPaiement = paiementDao.save(paiement);
 
 
+        // si le DAO nous retourne null c'est que il ya eu un problème lors de l'enregistrement
         if(nouveauPaiement == null) throw new PaiementImpossibleException("Erreur, impossible d'établir le paiement, réessayez plus tard");
-
-
 
         //TODO Nous allons appeler le Microservice Commandes ici pour lui signifier que le paiement est accepté
 
+        //On récupère la commande correspondant à ce paiement en faisant appel au Microservice commandes
+        Optional<CommandeBean> commandeReq = microserviceCommandeProxy.recupererUneCommande(paiement.getIdCommande());
+
+        //commandeReq.get() permet d'extraire l'objet de type CommandeBean de Optional
+        CommandeBean commande = commandeReq.get();
+
+        //on met à jour l'objet pour marquer la commande comme étant payée
+        commande.setCommandePayee(true);
+
+        //on envoi l'objet commande mis à jour au microservice commande afin de mettre à jour le status de la commande.
+        microserviceCommandeProxy.updateCommande(commande);
+
+        //on renvoi 201 CREATED pour notifier le client au le paiement à été enregistré
         return new ResponseEntity<Paiement>(nouveauPaiement, HttpStatus.CREATED);
 
     }
