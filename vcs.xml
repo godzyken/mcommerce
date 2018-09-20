@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/godzyken/McommerceActivites.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/godzyken/mon-projet-angular.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\data\14-DeveloppementWebServices" />
