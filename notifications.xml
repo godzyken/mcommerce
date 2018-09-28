@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Angular CLI" />
+    <notification groupId="File Watchers" displayType="STICKY_BALLOON" />
+  </component>
+</application>
