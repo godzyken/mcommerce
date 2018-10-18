@@ -12,6 +12,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="component" type="Native" />
+      <mapping ext="scss~master" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
