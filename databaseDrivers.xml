@@ -42,6 +42,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mariadb">
+      <url-template name="logintest" template="jdbc:mariadb://{host::localhost}?[:{port::3306}][/krhonos3?][\?&lt;&amp;,user=root,password=toor,{:identifier}={:identifier}&gt;]" />
       <url-template name="default" template="jdbc:mariadb://{host::localhost}?[:{port::3306}][/myevents?][\?&lt;&amp;,user=root,password=godzy,{:identifier}={:identifier}&gt;]" />
       <url-template name="default" template="jdbc:mariadb://address=\(protocol=tcp\)\(&lt;\)\(,host={host:host_ipv6:localhost},port={port::3306},user=root,password=godzy,{:identifier}={:identifier}&gt;\)[/mycontrats][\?&lt;&amp;,{:identifier}={:param}&gt;]" />
       <artifact name="MariaDB Connector J" use="true" version="2.2.1" />
