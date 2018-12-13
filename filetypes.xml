@@ -13,6 +13,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="component" type="Native" />
       <mapping ext="scss~master" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
