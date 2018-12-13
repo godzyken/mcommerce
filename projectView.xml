@@ -3,6 +3,7 @@
     <option name="autoscrollToSource" value="true" />
     <option name="flattenModules" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyPackages" value="false" />
     <option name="showMembers" value="true" />
   </component>
 </application>
